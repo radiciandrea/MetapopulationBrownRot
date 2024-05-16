@@ -3,6 +3,8 @@ Code associated to our publication "A metapopulation framework integrating lands
 
 # A metapopulation framework integrating landscape heterogeneity to model an airborne plant pathogen: the case of brown rot of peach in France
 
+# PAY ATTENTION: the following readme and code was coinceived haveing the possibility of sharing 10 randomization (over 100) for the years 1981 to 2021. Because of large size, we upladed a reduced version of the data: just one randomization, over 2016-2021. Indexing in the code should be readapted consequently by users.
+
 ## Description of the data and file structure
 
 This script simulates an epidemiological-metapopulation model describing the multiannual spatiotemporal climate-dependent epidemiological dynamics for brown rot of peaches in southern France. In this model, french peach orchards are subdivided into 755 spatial units (or cells), each one characterized in terms of surface, cultivar and climate, and during ripening period (i.e. when the fruit is susceptible) can develop internal infections (modelled as a susceptible-exposed-infected system) as well as infect other units via airborne epidemic connections (via a stochastic extraction based on spore transport matrices). At the beginning of each year, some units may be already be infected by precedent year mummified fruits (all fruits that have been infected) or because of random inoculum. This model is used to assess epidemic risk indices for each unit, i.e. dangerousness (risk of causing secondary infection in other sites) and vulnerability (risk of becoming infected) across the our study area.
