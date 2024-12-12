@@ -3,7 +3,7 @@ Code associated to our publication "A metapopulation framework integrating lands
 
 # A metapopulation framework integrating landscape heterogeneity to model an airborne plant pathogen: the case of brown rot of peach in France
 
-# PAY ATTENTION: the following readme and code was coinceived haveing the possibility of sharing 10 randomization (over 100) for the years 1981 to 2021. Because of large size, we upladed a reduced version of the data: just one randomization, over 2016-2021. Indexing in the code should be readapted consequently by users.
+Disclaimer: the following readme and code was coinceived haveing the possibility of sharing 10 randomization (over 100) for the years 1981 to 2021. Because of large size, we upladed a reduced version of the data: just one randomization, over 2016-2021. Indexing in the code should be readapted consequently by users.
 
 ## Description of the data and file structure
 
